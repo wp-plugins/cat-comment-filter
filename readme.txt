@@ -1,0 +1,1 @@
+欢迎使用Cat-Comment-Filter大猫评论内容关键词过滤wordpress插件，本插致力于过滤站点评论或文章中不应该出现的词汇，请勿使用本插件从事违法行为，本插件所有版权归www.yiduqiang.com作者所有。
