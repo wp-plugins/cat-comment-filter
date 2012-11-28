@@ -1,12 +1,9 @@
 === Cat-Comment-Filter ===
-Contributors: panjunxi
 Donate link: 
 Tags: page,Comment
 Requires at least: 3.3
 Tested up to: 3.4
 Stable tag: Cat-Comment-Filter
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 过滤评论中的敏感词，自带九字词的数据库，支持自定义数据库和正则表达式。
 Filter sensitive word in the comments, and comes with nine term database support for custom database and regular expressions.
