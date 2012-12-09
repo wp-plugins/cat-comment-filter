@@ -33,4 +33,4 @@ Not found
 
 
 == Upgrade notice ==
-
+修复正则表达式BUG，正则表达式现在只能使用DW编辑。
